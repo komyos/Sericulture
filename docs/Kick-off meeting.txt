@@ -1,0 +1,72 @@
+System 1
+- Timeline
+	- Delivers design 5 themes on 29/08/2017
+		- jpeg files
+- Features
+	- Shows spinner while loading
+	- Shares article via email
+	- Set time to publish article
+	- Multiple sites with multiple templates (5 themes)
+		- Blue
+		- Green
+		- Grey
+		- XXX
+		- XXX
+	- Uses latest version of php, wordpress, mysql
+		- Informs which versions you use
+	- Prints specified article as pdf
+	- 2 languages: TH, EN
+	- Migrates existing data to new ones
+		- There are staffs for helping
+	- Follows TWCAG2010 Ver2.0 standard
+		- https://www.moac.go.th
+		- check pdf file
+	- Certified by WCAG 2.0 level AA
+		- Compiles by https://achecker.ca/checker/index.php
+	- Supports IPv6
+		- Check by https://www.ipv6forum.com/ipv6_enabled/approval_list.php?type=url&content=www.qsds.go.th
+	- HTTPS
+		- Installs certificate
+	- Login with capcha
+		- Backend / Webboard
+	- Vulnerability test
+		- https://hackertarget.com/wordpress-security-scan/
+	- Plugins (informs which plugins you use including url references)
+		- Calendar
+			- google canlendar (existing system)
+			- wordpress canlendar?
+				- share calendar?
+		- Gallery
+			- New feature
+			- Basic functionalities
+		- Questionnaire
+			- New feature
+			- Basic functionalities
+		- Webboard (forum)
+			- Basic functionalities
+			- Need member (login)
+		- Poll
+			- Basic functionalities
+		- Contact us
+			- Remove telephone so there is 2 left but merge them to 1 page
+			- 2 left:
+				- Address
+				- Map (use google map instead of image map)
+		- Banner
+			- Carousel
+			- Maintainable
+		- Socials
+			- Facebook
+				- Able to share article via visitor's facebook
+			- Twitter
+				- Able to share article via visitor's twitter
+			- Youtube
+				- Link to official youtube
+		- Logging
+			- Activity log (https://wordpress.org/plugins/aryo-activity-log)
+			- Visitor log (https://wordpress.org/plugins/wp-statistics)
+		- RSS
+		- Backup
+			- Set schedule for auto backup
+		- Visitor (external)
+			- http://www.free-counter-plus.com/ (existing one)
